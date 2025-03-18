@@ -1,4 +1,8 @@
-# aula-01-1TDSPO
-## Meu primeiro repositório
-MARKDOWN
-PROF ALE ACABOU COM O MEU SHAMPOO
+
+1o - COMMIT
+# 🚀 Meu Repositório
+
+Olá, mundo! 👋
+
+Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
+
